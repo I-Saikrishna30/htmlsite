@@ -1,0 +1,102 @@
+.heading h1{
+    text-transform:uppercase;
+    color:red;
+    text-align:center;
+    background-color:yellow;
+    margin:10px 450px 10px 450px;
+    border: 2px solid green;
+    border-radius:50px;
+    padding:15px;
+
+}
+.heading1{
+    margin:30px 10px 10px 10px;
+    border: 2px solid green;
+    padding:20px;
+
+}
+ a{
+    background-color:black;
+    color:antiquewhite;
+    text-decoration:none;
+ }
+ a:hover{
+    background-color:crimson;
+ }
+.heading2{
+    margin:30px 10px 10px 10px;
+    border: 2px solid yellow;
+    padding:20px;
+}
+.heading2 h1{
+    color:aqua;
+}
+
+ h1{
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing:5px;
+    color:tomato;
+
+}
+ p{
+    font-size:1.2em;
+    text-align:justify;
+    line-height:35px;
+    word-spacing:5px;
+}
+.para1{
+    width:33%;
+    border: 2px solid red;
+    margin-left: 5px;
+    
+}
+.para2{
+    width:33%;
+    border: 2px solid blueviolet;
+    margin-left:32%;
+    margin: -510px 97px 60px 527px;
+    
+}
+.para3{
+    width:33%;
+    border:2px solid orange;
+    margin-left:67%;
+    margin: -570px 187px 93px 1049px;
+}
+.tabledata{
+    margin: -81px 10px 12px 10px;
+    border:2px solid rgb(151, 91, 76);
+    padding-bottom: 25px;
+}
+.tabledata h1{
+    text-align:center ;
+     color:red;
+     letter-spacing:-2px;
+}
+.category ul img{
+    size: 1px;
+}
+
+.category ul li {
+    font-size:1.5em;
+     list-style-type:none;
+   
+}
+.symbol ul li{
+    margin-left:90%;
+    list-style-type: none;
+    width:50px;
+    height:50px;
+    
+}
+.symbol ul  a:hover{
+    background-color:wheat;
+}
+.symbol ul{
+   
+    position:fixed;
+    bottom:0;
+    margin-left:87%;
+     
+}
